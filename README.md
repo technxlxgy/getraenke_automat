@@ -1,2 +1,2 @@
 # getraenke_automat
-Getränkeautomat Comback 2025
+Getränkeautomat Comeback 2025
